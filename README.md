@@ -6,7 +6,7 @@ A powerful Flutter plugin that sends **crash reports, errors, and custom logs** 
 ![License](https://img.shields.io/github/license/cas8398/crash_reporter?style=for-the-badge)
 [![Tests](https://github.com/cas8398/crash_reporter/actions/workflows/test.yml/badge.svg)](https://github.com/cas8398/crash_reporter/actions)
 [![Pub Points](https://img.shields.io/pub/points/crash_reporter.svg)](https://pub.dev/packages/crash_reporter/score)
-[![wakatime](https://wakatime.com/badge/user/70818c15-eb72-433e-9174-2ed1623e2fca/project/e85fbf55-d57b-41de-a6b3-2dfa3d7e53c7.svg)](https://wakatime.com/badge/user/70818c15-eb72-433e-9174-2ed1623e2fca/project/e85fbf55-d57b-41de-a6b3-2dfa3d7e53c7)
+[![wakatime](https://wakatime.com/badge/github/cas8398/crash_reporter.svg)](https://wakatime.com/badge/github/cas8398/crash_reporter)
 
 ---
 
